@@ -1,4 +1,4 @@
-# Sharp non-parametric bounds for decomposition effects with two mediators
+# Sharp nonparametric bounds for decomposition effects with two mediators
 
 ## Reproducibility materials
 ## Authors: Erin E Gabriel, Michael C Sachs, Arvid Sjölander

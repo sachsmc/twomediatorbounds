@@ -1,5 +1,5 @@
 ---
-title: "Sharp non-parametric bounds for decomposition effects with two mediators -- Supplemental Materials"
+title: "Sharp nonparametric bounds for decomposition effects with two mediators -- Supplemental Materials"
 date: '`r format(Sys.Date(), "%Y-%m-%d")`'
 author:
   - Erin E Gabriel
