@@ -12,7 +12,7 @@ output:
 
 # Notation and estimands
 
-Here we reproduce the decompositions of the total effect as reported in Daniel et al. 2015, Table 2. Each element of the decomposition is a link to the bounds for that element. The total effect is $TE = p{Y(1) = 1} - p{Y(0) = 1}$. The terms of the decomposition are defined as follows for $x, x_1, x_2, x_3 \in \{0, 1\}$:
+Here we reproduce the decompositions of the total effect as reported in Daniel et al. 2015, Table 2. Each element of the decomposition is a link to the bounds for that element. The total effect is TE $= p\{Y(1) = 1\} - p\{Y(0) = 1\}$. The terms of the decomposition are defined as follows for $x, x_1, x_2, x_3 \in \{0, 1\}$:
 
 The natural direct effect:
 \begin{eqnarray*}
